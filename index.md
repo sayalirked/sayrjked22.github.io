@@ -7,10 +7,7 @@ description: Sayali Kedari is a Doctoral candidate in Mechanical Engineering at 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://www.linkedin.com/in/kedarisa">LinkedIn</a></li>
-          <li><a href="https://scholar.google.com/citations?user=wmJICCwAAAAJ&hl=en">Google Scholar</a></li>
-          <li><a href="https://github.com/sayrjked">Github</a></li>
-          <li><a href="http://sayalikedari.blogspot.com">Blog</a></li>
+          <li><a href="https://github.com/sayrjked">github</a></li>
       </ul>
   </div>
 </div>
@@ -22,6 +19,16 @@ description: Sayali Kedari is a Doctoral candidate in Mechanical Engineering at 
   </td>
   <td class="right">
     <img src="assets/pics/KLdivergence_representn.jpg" alt="KLrepresn" title="KL Divergence - representation"/>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+        <img src="assets/publpics/cavityM2.pdf" alt="Lid driven cavity" title="Contours of streamlines in the square lid driven cavity (2016)"/>
+    </a>
+  </td>
+  <td class="right">
+        <img src="assets/publpics/expansion15_800x400.pdf" alt="asymmetric sudden expansion" title="Contours of streamlines in the asymmetric sudden expansion (2016)"/>
+    </a>
   </td>
 </tr>
 </table>
