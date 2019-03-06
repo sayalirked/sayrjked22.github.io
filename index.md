@@ -26,10 +26,10 @@ description: Sayali Kedari is a Doctoral candidate in Mechanical Engineering at 
 </tr>
 <tr>
   <td class="left">
-        <img src="assets/publpics/cavityM2.PNG" alt="Lid driven cavity" title="Contours of streamlines in the square lid driven cavity (MS thesis, 2016)"/>
+        <img src="assets/publpics/cavityM2.png" alt="Lid driven cavity" title="Contours of streamlines in the square lid driven cavity (MS thesis, 2016)"/>
   </td>
   <td class="right">
-        <img src="assets/publpics/expansion15_800x400.PNG" alt="asymmetric sudden expansion" title="Contours of streamlines in the asymmetric sudden expansion (MS thesis, 2016)"/>
+        <img src="assets/publpics/expansion15_800x400.png" alt="asymmetric sudden expansion" title="Contours of streamlines in the asymmetric sudden expansion (MS thesis, 2016)"/>
   </td>
 </tr>
 </table>
