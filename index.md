@@ -7,7 +7,10 @@ description: Sayali Kedari is a Doctoral candidate in Mechanical Engineering at 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://github.com/sayrjked">github</a></li>
+          <li><a href="https://www.linkedin.com/in/kedarisa">LinkedIn</a></li>
+          <li><a href="https://scholar.google.com/citations?user=wmJICCwAAAAJ&hl=en">Google Scholar</a></li>
+          <li><a href="https://github.com/sayrjked">Github</a></li>
+          <li><a href="http://sayalikedari.blogspot.com">Blog</a></li>
       </ul>
   </div>
 </div>
