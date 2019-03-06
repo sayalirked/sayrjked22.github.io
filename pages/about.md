@@ -10,9 +10,4 @@ I received my Master in Science (M.S.) in Mechanical Engineering in 2016 from th
 
 Research Interests:Solid Mechanics, Uncertainty Quantification, Finite Element Modeling, High Performance Computing, Fluid Mechanics
 
-[LinkedIn](https://www.linkedin.com/in/kedarisa)<br/>
-[Google Scholar](https://scholar.google.com/citations?user=wmJICCwAAAAJ&hl=en)<br/>
-[Github](https://github.com/sayrjked)<br/>
-[Blog](http://sayalikedari.blogspot.com)
-
 ---
