@@ -24,10 +24,10 @@ K. Vemaganti, S. Madireddy, **S. Kedari**, "On the Inference of Viscoelastic Con
 #### 2017
 
 K. S. Surana, A. D. Joy, **S. R. Kedari**, D. Nunez, J. N. Reddy, A. S. Dalkilic, "A Nonlinear Constitutive Theory for Heat Conduction in Lagrangian Description Based on Integrity", Journal of Thermal Engineering, Vol. 3, no. 6, Special Issue 6, (2017): 1615-1631
-[![pdf](icons16/pdf-icon.png)](https://kuscholarworks.ku.edu/bitstream/handle/1808/27330/Surana_2017.pdf?sequence=1)
+[![pdf](icons16/pdf-icon.png)](https://kuscholarworks.ku.edu/handle/1808/27330)
 
 K. S. Surana, A. D. Joy, **S. R. Kedari**, D. Nunez, J. N. Reddy, S. Wongwises, "A Nonlinear Constitutive Theory for Deviatoric Cauchy Stress Tensor for Incompressible Viscous Fluids", Journal of Thermal Engineering, Vol. 3, no. 3 (2017): 1221-1240
-[![pdf](icons16/pdf-icon.png)](https://kuscholarworks.ku.edu/bitstream/handle/1808/27331/SuranaK_2017.pdf?sequence=1)
+[![pdf](icons16/pdf-icon.png)](https://kuscholarworks.ku.edu/handle/1808/27331)
 
 
 ### <a name="thesis"></a>Thesis
