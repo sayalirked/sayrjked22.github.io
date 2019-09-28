@@ -1,4 +1,4 @@
-## Sayali Kedari&rsquo;s website
+## Sayali R. Kedari&rsquo;s website
 
 ---
 
