@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: Sayali Kedari
-description: Sayali Kedari is a Doctoral candidate in Mechanical Engineering at the University of Cincinnati.
+title: Sayali R. Kedari
+description: Sayali Kedari is a Graduate Researcher in Mechanical Engineering at the University of Cincinnati.
 ---
 
 <div class="navbar">
@@ -11,6 +11,7 @@ description: Sayali Kedari is a Doctoral candidate in Mechanical Engineering at 
           <li><a href="https://scholar.google.com/citations?user=wmJICCwAAAAJ&hl=en">Google Scholar</a></li>
           <li><a href="https://github.com/sayrjked">Github</a></li>
           <li><a href="https://www.researchgate.net/profile/Sayali_Kedari">Researchgate</a></li>
+          <li><a href="https://sayalikedari.blogspot.com/">Travel Photography blog</a></li>
       </ul>
   </div>
 </div>
