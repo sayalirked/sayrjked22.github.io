@@ -10,4 +10,6 @@ I earned my Masters (M.S.) in Mechanical Engineering in 2016 from the University
 
 Research Interests: Solid Mechanics, Uncertainty Quantification, Machine Learning, Scientific Computing, Numerical Analysis, Fluid Mechanics
 
+I like to travel and share my experiences. You can read about some of my trips at my [Travel Photography Blog](http://sayalikedari.blogspot.com/).
+
 ---
