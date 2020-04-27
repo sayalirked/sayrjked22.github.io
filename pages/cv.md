@@ -1,13 +1,8 @@
 ---
-layout: archive
-title: "Curriculum Vitae"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+layout: page
+title: cv
+description: Sayali Kedari's CV
 ---
-
-{% include base_path %}
 
 [CV - PDF](https://sayrjked.github.io/files/sayali-cv-web.pdf)
 
