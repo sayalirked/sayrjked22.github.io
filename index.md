@@ -15,8 +15,15 @@ description: Sayali Kedari is a Graduate Researcher in Mechanical Engineering at
       </ul>
   </div>
 </div>
-
 <table class="wide">
+<tr>
+  <td class="left">
+     <img src="assets/publpics/sample_Etau_loglikelihood.jpg" alt="bayesparamest" title="Bayesian parameter estimation (PhD thesis)"/>
+  </td>
+  <td class="right">
+    <img src="assets/publpics/Doptval_ttot_2termE0notstoc.jpg" alt="dopt2termE0nsto" title="D-optimality criterion (Vemaganti et al., On the Inference of Viscoelastic Constants from Stress Relaxation Experiments, 2019)"/>
+  </td>
+</tr>
 <tr>
   <td class="left">
      <img src="assets/pics/FisherInfo_likelihoodsrepresn.jpg" alt="FIrepresn" title="Fisher Information - representation"/>
@@ -34,3 +41,4 @@ description: Sayali Kedari is a Graduate Researcher in Mechanical Engineering at
   </td>
 </tr>
 </table>
+
