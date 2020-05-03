@@ -12,6 +12,7 @@ description: Sayali Kedari is a Graduate Researcher in Mechanical Engineering at
           <li><a href="https://github.com/sayrjked">Github</a></li>
           <li><a href="https://www.researchgate.net/profile/Sayali_Kedari">Researchgate</a></li>
           <li><a href="https://sayalikedari.blogspot.com/">Travel Photography blog</a></li>
+          <li><a href="{{ BASE_PATH }}/_include/year-archive.html">Technical blog</a></li>
       </ul>
   </div>
 </div>
